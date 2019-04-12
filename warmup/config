@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+	sharedRepository = group
+[receive]
+	denyNonFastforwards = true
+[remote "origin"]
+	url = ssh://ug250.eecg.toronto.edu/srv/ece344s/os-XXX/ece344
+	fetch = +refs/heads/*:refs/remotes/origin/*

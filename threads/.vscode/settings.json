@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "thread.h": "c",
+        "interrupt.h": "c",
+        "stdbool.h": "c",
+        "ucontext.h": "c",
+        "signal.h": "c",
+        "types.h": "c"
+    }
+}

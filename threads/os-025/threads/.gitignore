@@ -1,0 +1,13 @@
+*.o
+.depend
+show_ucontext
+show_handler
+test_basic
+test_preemptive
+test_wakeup
+test_wakeup_all
+test_wait
+test_wait_kill
+test_lock
+test_cv_signal
+test_cv_broadcast
